@@ -17,8 +17,10 @@ Launches the test runner in the interactive watch mode.<br />
 
 ### App Summary
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+An employee directory that uses axios to generate 30 random users, and allows you to view them in alphabetical order - ascending or descending. React.js was used to split the website into components.
 
 ### App Features
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- sort users alphabetically upon button click 
+- bootstrap to make aesthetic choices
+- React.js uses componenents
+-dynamically generated card components for axios call of random users
